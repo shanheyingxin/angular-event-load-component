@@ -1,0 +1,30 @@
+:host {
+  display: block;
+
+  .block {
+    border: 1px solid #ccc;
+    width: 500px;
+    height: 300px;
+    margin: 45px auto 0;
+    padding: 1em;
+    .event-load-box,
+    nav {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      column-gap: 0.7em;
+      padding: 30px 30px 25px;
+      margin: auto;
+      > * {
+        text-align: center;
+      }
+    }
+    nav {
+      font-size: 16px;
+    }
+  }
+  .tip {
+    font-size: 13px;
+    line-height: 1.8em;
+    color: #777;
+  }
+}
