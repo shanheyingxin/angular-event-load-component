@@ -2,7 +2,7 @@
 
 此项目是 `Angular v16` 事件级懒加载 demo。
 
-(点这里查看示例)[https://shanheyingxin.github.io/angular-event-load-component]
+[点这里查看示例](https://shanheyingxin.github.io/angular-event-load-component) https://shanheyingxin.github.io/angular-event-load-component
 
 ```shell
 # 查看demo
