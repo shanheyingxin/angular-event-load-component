@@ -2,6 +2,8 @@
 
 此项目是 `Angular v16` 事件级懒加载 demo。
 
+(点这里查看示例)[https://shanheyingxin.github.io/angular-event-load-component]
+
 ```shell
 # 查看demo
 npm i
@@ -44,4 +46,4 @@ npm start
 
 115033672@qq.com
 
-![这是图片](./i.jpg '我的微信')
+![我的微信](./i.jpg '我的微信')
