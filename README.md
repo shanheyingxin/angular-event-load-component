@@ -40,7 +40,7 @@ npm start
 | 分割特点 | 内容分割             | 功能分割                 |
 | 相互关系 | 路由模块管理事件模块 | 事件模块服务多个路由模块 |
 
-![图示](./graphici.png 'graphic')
+![图示](./graphic.png 'graphic')
 
 # END
 
